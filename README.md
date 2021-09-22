@@ -1,4 +1,16 @@
 # Deploy_a_Sentiment_analysis_model
+## Project purpose
+- Construct a recurrent neural network for the purpose of determining the sentiment of a movie review using the IMDB data set.
+- Create this model using Amazon's SageMaker service. 
+- Deploy machine learning model and construct a simple web app which will interact with the deployed model.
+- 
+### Tools
+- AWS Sagemaker
+- Jupyter Notebook
+- AWS Lambda
+- AWS API Gateway
+- Pytorch
+
 ### Repo Structure
 - report.html: project notebook with the html format.
 - Project: project workspace including notebook, pytorch python script, index.html
